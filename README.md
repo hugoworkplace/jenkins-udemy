@@ -10,7 +10,7 @@ https://github.com/ricardoandre97/jenkins-resources
 
 
 
-Course environment Setup: 
+Environment Setup: 
 https://paper.dropbox.com/doc/Installation--BMVqGuCiz~H20EpwPVctJDJ7AQ-tmBBNM2GYssfkbi9FCAUU
 
 Learning notes (from section3):
@@ -26,3 +26,6 @@ Git
 AWS
 ansible
 VirtualBox
+PHP
+MySQL
+CentOS,Ubuntu
