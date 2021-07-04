@@ -2,3 +2,9 @@
 remote-key
 *.pub
 *key
+.git
+.gitignore
+
+#maven
+.m2/
+target/
