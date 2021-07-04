@@ -9,10 +9,20 @@ https://github.com/ricardoandre97/jenkins-resources
 
 
 
-My notes:
-Installation 
+
+Course environment Setup: 
 https://paper.dropbox.com/doc/Installation--BMVqGuCiz~H20EpwPVctJDJ7AQ-tmBBNM2GYssfkbi9FCAUU
 
-Learning notes (from section3)
+Learning notes (from section3):
 https://paper.dropbox.com/doc/Jenkins-Tnmfr6XSCBF3myfFtkiFG
 
+
+Tech stack:
+Docker
+Jenkins
+Bash
+Maven
+Git
+AWS
+ansible
+VirtualBox
